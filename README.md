@@ -78,8 +78,6 @@ Form page:
 FAQ page:
 * Bootstrap accordion with FAQ (to be updated based on user guidance)
   
-![wireframes](assets/images/TheBarkSide.png)
-
 * Section about each pet:
 Dogs
 Cats
