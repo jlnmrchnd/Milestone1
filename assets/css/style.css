@@ -5,7 +5,6 @@
 /////// */
 
 html {
-<<<<<<< HEAD
   height: 100%;
   width: 100%;
 }
@@ -38,7 +37,6 @@ iframe {
 
 ul, ol {
   list-style-type: none;
-=======
     height: 100%;
     width: 100%;
 }
@@ -63,28 +61,26 @@ iframe {
     width: 80%;
     height: 500px;
     border: 3px solid var(--eggplant);
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* ////////
 // ABOUT //
 //////// */
 
-<<<<<<< HEAD
 .block-one-about {
   text-align: center;
   border-radius: 10px;
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
-=======
+}
+
 .about-list {
     text-align: left;
 }
 
 .food img {
     margin: 10px 10px 10px 10px;
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* //////
@@ -92,11 +88,7 @@ iframe {
 ////// */
 
 .accordion-item a {
-<<<<<<< HEAD
   text-decoration: underline;
-=======
-    text-decoration: underline;
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* /////////
@@ -104,7 +96,6 @@ iframe {
 ///////// */
 
 .ft-lh-col {
-<<<<<<< HEAD
   white-space: nowrap;
   background-color: var(--eggplant);
   text-align: left;
@@ -159,12 +150,11 @@ iframe {
 .ft-rh-col p {
   margin-top: 20px;
   margin-bottom: 0px;
-=======
-    white-space: nowrap;
-    background-color: var(--eggplant);
-    text-align: left;
-    padding-top: 10px;
-    padding-bottom: 20px;
+  white-space: nowrap;
+  background-color: var(--eggplant);
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 .ft-lh-col i {
@@ -214,7 +204,6 @@ iframe {
 .ft-rh-col p {
     margin-top: 20px;
     margin-bottom: 0px;
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* ///////
@@ -222,7 +211,6 @@ iframe {
 /////// */
 
 #signup {
-<<<<<<< HEAD
   margin: 15px 10px 20px 10px;
 }
 
@@ -280,8 +268,7 @@ iframe {
   border-color: var(--blue);
   background-color: var(--blue);
   color: var(--eggplant);
-=======
-    margin: 15px 10px 20px 10px;
+  margin: 15px 10px 20px 10px;
 }
 
 .form-fieldset {
@@ -338,7 +325,6 @@ iframe {
     border-color: var(--blue);
     background-color: var(--blue);
     color: var(--eggplant);
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* //////////
@@ -346,7 +332,6 @@ iframe {
 ////////// */
 
 .gallery div {
-<<<<<<< HEAD
   display: flex;
   justify-content: center;
   align-items: center;
@@ -386,11 +371,10 @@ iframe {
 
 .gallery-form {
   width: 250px;
-=======
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
 }
 
 .gallery div img {
@@ -426,7 +410,6 @@ iframe {
 
 .gallery-form {
     width: 250px;
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* ///////
@@ -434,19 +417,16 @@ iframe {
 /////// */
 
 .faq-intro {
-<<<<<<< HEAD
   padding: 10px;
 }
 
 .accordion {
   padding-bottom: 10px;
-=======
     padding: 10px;
 }
 
 .accordion {
     padding-bottom: 10px;
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* ////////
@@ -454,7 +434,6 @@ iframe {
 //////// */
 
 .main-content {
-<<<<<<< HEAD
   margin: 10px;
   text-align: center;
 }
@@ -475,9 +454,8 @@ iframe {
 .content-block:hover {
   border-radius: 20px;
   border-bottom: 1px solid var(--grey);
-=======
-    padding: 10px;
-    text-align: center;
+  padding: 10px;
+  text-align: center;
 }
 
 #main-heading {
@@ -496,7 +474,6 @@ iframe {
 .content-block:hover {
     border-radius: 20px;
     border-bottom: 1px solid var(--grey);
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* /////////
@@ -504,7 +481,6 @@ iframe {
 ///////// */
 
 .navbar {
-<<<<<<< HEAD
   margin-top: 0px;
 }
 
@@ -518,8 +494,7 @@ iframe {
 
 .navbar-toggler {
   margin: 0px 5px 0px 0px;
-=======
-    margin-top: 0px;
+  margin-top: 0px;
 }
 
 .navbar-brand {
@@ -532,7 +507,6 @@ iframe {
 
 .navbar-toggler {
     margin: 0px 5px 0px 0px;
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* ///////
@@ -540,7 +514,6 @@ iframe {
 /////// */
 
 table {
-<<<<<<< HEAD
   margin-top: 10px;
   border-collapse: collapse;
   border-color: var(--grey);
@@ -549,34 +522,28 @@ table {
 
 table a:hover {
   border-bottom: 1px solid var(--grey);
-=======
-    margin-top: 10px;
-    border-collapse: collapse;
-    border-color: var(--grey);
-    width: 100%;
+  margin-top: 10px;
+  border-collapse: collapse;
+  border-color: var(--grey);
+  width: 100%;
 }
 
 table a:hover {
     border-bottom: 1px solid var(--grey);
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 td,
 th {
-<<<<<<< HEAD
   border: 1px solid var(--grey);
   text-align: left;
   padding: 8px;
-=======
     border: 1px solid var(--grey);
     text-align: left;
     padding: 8px;
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 table h1,
 h2,
-<<<<<<< HEAD
 h3, h4, h5, h5, h6 {
   display: inline;
 }
@@ -599,7 +566,8 @@ tr h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   margin-left: auto;
   margin-right: auto;
-=======
+}
+
 h3,
 h4,
 h5,
@@ -631,7 +599,6 @@ h6 {
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 /* //////////////
@@ -640,7 +607,6 @@ h6 {
 
 @media only screen and (max-width: 576px) {
 
-<<<<<<< HEAD
   footer {
     font-size: .8em;
   }
@@ -658,7 +624,6 @@ h6 {
   .content-block {
     padding: 20px;
   }
-=======
     footer {
         font-size: .8em;
     }
@@ -691,59 +656,52 @@ h6 {
         width: 250px;
         height: 150px;
     }
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 @media screen and (min-width: 768px) {
 
-<<<<<<< HEAD
   .carousel-img {
     height: 200px;
     width: 300px;
-    overflow: hidden;}
-=======
-    .content-block img {
+    overflow: hidden;
+  }
+
+.content-block img {
         margin-left: auto;
         margin-right: auto;
         width: 350px;
         height: 220px;
     }
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 @media screen and (min-width: 992px) {
 
-<<<<<<< HEAD
   .carousel-img {
     height: 400px;
     width: 600px;
     overflow: hidden;
   }
-=======
-    .content-block img {
+
+  .content-block img {
         margin-left: auto;
         margin-right: auto;
         width: 400px;
         height: 250px;
     }
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
 }
 
 @media screen and (min-width: 1200px) {
 
-<<<<<<< HEAD
   .carousel-img {
     height: 500px;
     width: 1000px;
     overflow: hidden;
     }
-}
-=======
-    .content-block img {
+
+.content-block img {
         margin-left: auto;
         margin-right: auto;
         width: 450px;
         height: 290px;
-    }
-}
->>>>>>> 99c69b4b4fe7ab46e1386c70010378af33356cf4
+      }
+  }
