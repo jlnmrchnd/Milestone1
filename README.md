@@ -11,14 +11,14 @@ To:
 
 
 # META DESCRIPTION:  
-The Bark Side is all about pets: dogs, cats, furry friends and creepy crawlies. Discover what they eat, how they play, how to care for your pet with links to:  
+The Bark Side is all about pets. Discover what they eat, how they play, how to care for your pet with links to:  
 * Informational and wellness partners  
 * Vets, homes and shelters
-* Toy shops and food stockists
+* Food stockists
 
 
 # KEYWORDS:  
-pet, animal, dog, cat, bunny, rabbit, guinea pig, fish, bird, exercise, food, habits, wellness, insurance
+pet, animal, dog, cat, exercise, food, habits, wellness, insurance
 
 
 # TARGET AUDIENCE:  
@@ -29,7 +29,7 @@ pet, animal, dog, cat, bunny, rabbit, guinea pig, fish, bird, exercise, food, ha
 
 # USER OBJECTIVES:  
 Appealing images of pets at their best  
-Relevant information on pet ownership, grouped by animal type  
+Relevant information on pet ownership, grouped by animal type (to be improved in future editions)  
 Simple navigation by characteristic of choice (to be improved in future editions using JavaScript)  
 Form allowing users to join the mailing list, ask a question, or upload an image of their pet to the gallery page
 FAQ section for quick reference  
@@ -58,20 +58,20 @@ All pages:
 * Footer with links to social platforms and link to form  for questions / suggestions
 	Social media links
 	Cruft link
-	RSPCA link
-	Battersea Dogs & Cats Home link
+	RSPCA link (released in future editions
+	Battersea Dogs & Cats Home link (released in future editions
 
 Home page:
 * Content blocks which visually link to relevant pages
 
 About Us page:
-* 	Brief introduction
+* Brief introduction
 
 Pets page:
 
 Gallery page:
-* Option to upload (image) file of pet for potential display in the gallery (keeps contwent fresh)
-
+* Display image submittted by file upload from users
+* 
 Form page:
 * Form capturing opt in to newsletter, details of pet ownership among users of the site, and free text field for messages & comments
 
